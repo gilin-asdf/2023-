@@ -5,7 +5,7 @@
 //   if(a>3){
 //    printf("A\n");
 // }
-// else 
+// else
 //   printf("B\n");
 //  printf("C\n");
 
